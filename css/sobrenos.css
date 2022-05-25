@@ -12,3 +12,9 @@
 .text{
   font-family:'Raleway', sans-serif;
 }
+ul.a {
+    list-style-type: square;
+  }
+  ul.b {
+    list-style-type:circle;
+  }
