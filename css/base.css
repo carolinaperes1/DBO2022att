@@ -4,3 +4,7 @@
 .bg-dark {
     background-color: #b095bd!important;
 }
+.navbar-nav{
+    margin-left: 60px;
+ margin-right: 50px;
+}
