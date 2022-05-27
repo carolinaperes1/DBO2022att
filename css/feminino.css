@@ -1,32 +1,13 @@
 @import'./base.css';
 
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-    margin-top: 20px;
-}
-
-@media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-    }
-}
-
-.navbar-expand-sm .navbar-nav .dropdown-menu {
-    position: absolute;
-    background-color: #d0bad8;
-}
-.gallery-title {
+.gallery-title
+{
     font-size: 36px;
-    color: #a200ff;
+    color: #590107;
     text-align: center;
     font-weight: 500;
     margin-bottom: 70px;
 }
-
 .gallery-title:after {
     content: "";
     position: absolute;
@@ -35,36 +16,45 @@
     height: 45px;
     border-bottom: 1px solid #5e5e5e;
 }
-
-.filter-button {
+.filter-button
+{
     font-size: 18px;
-    border: 1px solid #88acf9;
+    border: 1px solid #ffbdbd;
     border-radius: 5px;
     text-align: center;
-    color: #88acf9;
+    color: #ff9898;
     margin-bottom: 30px;
 
 }
-
-.filter-button:hover {
+.filter-button:hover
+{
     font-size: 18px;
-    border: 1px solid #88acf9;
+    border: 1px solid #ffbdbd;
     border-radius: 5px;
     text-align: center;
-    color: #ffffff;
-    background-color: #88acf9;
+    color: solid #ffbdbd;
+    background-color: solid #ffbdbd;
 
 }
-
-.btn-default:active .filter-button:active {
+.btn-default:active .filter-button:active
+{
     background-color: #3a102b;
     color: white;
 }
 
-.port-image {
+.port-image
+{
     width: 100%;
 }
 
-.gallery_product {
+.gallery_product
+{
     margin-bottom: 30px;
 }
+h1{font-family: -webkit-body;
+}
+
+p{font-weight: 600;
+    margin-top: 01;}
+   
+  
