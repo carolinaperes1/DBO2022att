@@ -29,11 +29,11 @@
 .filter-button:hover
 {
     font-size: 18px;
-    border: 1px solid #88acf9;
+    border: 1px solid #e45dd0;
     border-radius: 5px;
     text-align: center;
     color: #ffffff;
-    background-color: #88acf9;
+    background-color: #e45dd0;
 
 }
 .btn-default:active .filter-button:active
