@@ -4,7 +4,7 @@
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 @media (min-width: 768px) {
@@ -27,11 +27,10 @@
 }
 
 .navbar-nav {
-    margin-left: 60px;
+    margin-left: 110px;
     margin-right: 50px;
 }
-
 .d-flex {
-    width: 350px;
-    margin-left: 60px;
+    width: 300px;
+    margin-left: 40px;
 }
