@@ -1,10 +1,37 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.navbar-expand-sm .navbar-nav .dropdown-menu {
+    position: absolute;
+    background-color: #d0bad8;
+}
+
 .bg-secondary {
-    background-color: #b095bd!important;
+    background-color: #b095bd !important;
 }
+
 .bg-dark {
-    background-color: #b095bd!important;
+    background-color: #b095bd !important;
 }
-.navbar-nav{
+
+.navbar-nav {
     margin-left: 60px;
- margin-right: 50px;
+    margin-right: 50px;
+}
+
+.d-flex {
+    width: 350px;
+    margin-left: 60px;
 }
