@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
 .sn{
     text-align: center;
-    background-color: #b095bd;
+    background-color: white;
     align-items: center;
 }
 .titulo{
@@ -13,5 +13,5 @@
   font-family:'Raleway', sans-serif;
 }
 .list-group-item{
-  background-color: #b095bd;
+  background-color: white;
 }
