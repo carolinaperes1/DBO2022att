@@ -14,3 +14,12 @@
 .titulobio{
     text-align: center;
 }
+.row{
+    margin-left: 0;
+    margin-right: 0;
+    }
+.navbar-nav{
+    margin-left: 0;
+    margin-right: 0;
+
+}
