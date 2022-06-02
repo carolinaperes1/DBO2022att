@@ -57,4 +57,12 @@ h1{font-family: -webkit-body;
 p{font-weight: 600;
     margin-top: 01px;}
    
-  
+  .row{
+    margin-left: 0;
+    margin-right: 0;
+    }
+.navbar-nav{
+    margin-left: 0;
+    margin-right: 0;
+
+}
