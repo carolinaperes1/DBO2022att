@@ -2,12 +2,12 @@
 .carousel-item {
   min-height: 280px;
 }
-.row{
-    margin-left: 0;
-    margin-right: 0;
-    }
+
 .navbar-nav{
     margin-left: 0;
     margin-right: 0;
 
 }
+.row{
+   right: 0;
+    }
