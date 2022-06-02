@@ -8,3 +8,12 @@ main{
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
+.row{
+    margin-left: 0;
+    margin-right: 0;
+    }
+.navbar-nav{
+    margin-left: 0;
+    margin-right: 0;
+
+}
